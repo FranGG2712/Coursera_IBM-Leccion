@@ -1,2 +1,1 @@
-# Coursera_IBM-Leccion
-Primer repositorio en GitHub
+Primera vez en GitHub para un curso!
